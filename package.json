@@ -1,6 +1,6 @@
 {
   "name": "@abhi1693/medusa-google-analytics",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Server-side Google Analytics 4 ecommerce events for Medusa",
   "repository": {
     "type": "git",
