@@ -1,6 +1,6 @@
 {
   "name": "@abhi1693/medusa-google-analytics",
-  "version": "0.1.0",
+  "version": "0.0.3",
   "description": "Server-side Google Analytics 4 ecommerce events for Medusa",
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
     "test": "node --test tests/*.test.cjs"
   },
   "peerDependencies": {
-    "@medusajs/framework": "2.22.4"
+    "@medusajs/framework": "2.22.4 || 2.23.0"
   },
   "devDependencies": {
     "@types/node": "24.19.2",
