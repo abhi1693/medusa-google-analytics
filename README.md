@@ -1,6 +1,6 @@
 # Google Analytics 4 for Medusa
 
-A backend plugin for Medusa 2.22.4 that sends ecommerce events using the GA4 Measurement Protocol.
+A backend plugin for Medusa 2.22.4 and 2.23.0 that sends ecommerce events using the GA4 Measurement Protocol.
 
 ## Installation
 
